@@ -69,7 +69,7 @@ sections:
     variant: variant-c
     colors: colors-c
     backgroundWidth: full
-    title: Blog Posts
+    title: Blog Posts test
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
